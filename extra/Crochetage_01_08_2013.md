@@ -2,7 +2,7 @@ Date: 2013-07-11
 Title: Atelier Crochetage le 01.08.2013
 Category: Atelier Crochetage
 Tags: crochetage,dernierbar,atelier
-Calendar: ../ical/Crochetage_01_08_2013.ics
+Calendar: ical/Crochetage_01_08_2013.ics
 
 [0]: http://bussiere.github.io/static/images/crochetage1.jpg  "Grande Version"
 
