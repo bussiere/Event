@@ -1,0 +1,12 @@
+ BEGIN:VCALENDAR
+    VERSION:2.0
+    PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+    BEGIN:VEVENT
+    DTSTART:20130801T183000Z
+    DTEND:20130801T225959Z
+    LOCATION:DernierBAr
+	CATEGORIES:Atelier crochetage
+	DESCRIPTION:On va s entrainer et se faire un pont
+    SUMMARY:Atelier Crochetage le 01.08.2103
+    END:VEVENT
+    END:VCALENDAR
