@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'Bussiere'
-SITENAME = u'Bussiere Contact'
-SITEURL = 'http://bussiere.github.io'
+SITENAME = u'Bussiere Calendar'
+SITEURL = 'http://bussiere.github.io/Event'
 
 TIMEZONE = 'Europe/Paris'
-FEED_DOMAIN = 'http://bussiere.github.io'
+FEED_DOMAIN = 'http://bussiere.github.io/Event'
 DEFAULT_LANG = u'en'
 
 # Blogroll
