@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Contact</title><link href="http://bussiere.github.io/" rel="alternate"></link><link href="http://bussiere.github.io/feeds%5Ccontact.atom.xml" rel="self"></link><id>http://bussiere.github.io/</id><updated>2013-07-25T00:00:00+02:00</updated><entry><title>Contact</title><link href="http://bussiere.github.io/contact.html" rel="alternate"></link><updated>2013-07-25T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io,2013-07-25:contact.html</id><summary type="html">&lt;p&gt;Mon telephone :
++33652435284&lt;/p&gt;
+&lt;p&gt;Mon Email :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bussiere.github.io/static/images/bussiereemail.jpg" title="Grande Version"&gt;&lt;img alt="Email bussiere" src="http://bussiere.github.io/static/images/bussiereemail.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Mon facebook :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.facebook.com/bussiere.adrien" title="Grande Version"&gt;http://www.facebook.com/bussiere.adrien&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mon twitter :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://twitter.com/bussiere" title="Qrcode"&gt;http://twitter.com/bussiere&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Qrcode :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bussiere.github.io/static/images/qrcodecontact.jpg" title="Qrcode"&gt;&lt;img alt="Qrcode" src="http://bussiere.github.io/static/images/qrcodecontact.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Clef Pgp Publique :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="o"&gt;-----&lt;/span&gt;&lt;span class="n"&gt;BEGIN&lt;/span&gt; &lt;span class="n"&gt;PGP&lt;/span&gt; &lt;span class="n"&gt;PUBLIC&lt;/span&gt; &lt;span class="n"&gt;KEY&lt;/span&gt; &lt;span class="n"&gt;BLOCK&lt;/span&gt;&lt;span class="o"&gt;-----&lt;/span&gt;
+&lt;span class="nl"&gt;Version:&lt;/span&gt; &lt;span class="n"&gt;GnuPG&lt;/span&gt; &lt;span class="n"&gt;v1&lt;/span&gt;&lt;span class="mf"&gt;.2.1&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;MingW32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;WinPT&lt;/span&gt; &lt;span class="mf"&gt;0.7.96&lt;/span&gt;&lt;span class="n"&gt;rc1&lt;/span&gt;
+
+&lt;span class="n"&gt;mQGiBE9sjdsRBADsY&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;DaDgj&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;pDuGLNVL6Dc&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;ghCxaEBK&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="mi"&gt;9&lt;/span&gt;&lt;span class="n"&gt;nwBvKPGIUocz13V42P&lt;/span&gt;
+&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="n"&gt;Jn&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;NJ9zRgZNdg5XbhohN2ltas8Nr09rrRQXbBk8zjCg&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;Qr0a4LmfA3j128SwCfZ&lt;/span&gt;
+&lt;span class="n"&gt;aTe5zlo&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;WSSuGv6kWGe&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;KZrLmiQoZRTDbZzqWyZxuJRkcpgsZc&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;jYRXJHwCgualT&lt;/span&gt;
+&lt;span class="n"&gt;LpC23Ja3plM6J6noFaqAlMUEAKZGDadSS&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;BW4gckw9XqSHRex7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;XyWU4sqVQlhMy&lt;/span&gt;
+&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="n"&gt;DEIba7H8cU6grww&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;cYa3OCocv5Mycf6MbWDCPrtsG0X08u8PgEaE29BsLIgSm&lt;/span&gt;
+&lt;span class="n"&gt;JF6r8y4Rgwj5xyCMTaxql82S&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;tZHyScpAoQ0a&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;xlTwxMZMuwK9p6b7oipXHL&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;UPN&lt;/span&gt;
+&lt;span class="n"&gt;sDfkBACoYLS4PQPFotqWI96j83NNLwEumUzA6Rqyas8w6Xwr51quA65y&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="n"&gt;nBmMmp&lt;/span&gt;
+&lt;span class="n"&gt;l58tKN7eyc5&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;bIpRX5bGG6ktCUHnfzk9uvnG7peilWzYT6&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;AJ3gbBgMGLBPByJBN&lt;/span&gt;
+&lt;span class="n"&gt;NH&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;nLjzsh4PzIxuSHLMiK5FkDNE2B95kaahIg42SQPT80LyvDLQlYnVzc2llcmVf&lt;/span&gt;
+&lt;span class="n"&gt;cHJpdmF0ZSA8YnVzc2llcmVAZ21haWwuY29tPohZBBMRAgAZBQJPbI3bBAsHAwID&lt;/span&gt;
+&lt;span class="n"&gt;FQIDAxYCAQIeAQIXgAAKCRAYpzZWoPP7b0h0AJ4n9feBF2FH4JUGhLU3XL3eIrOX&lt;/span&gt;
+&lt;span class="mi"&gt;9&lt;/span&gt;&lt;span class="n"&gt;gCfZbN4JHYl&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;nRLL4uHrceRUk1M9Pm5Ac0ET2yN3hAHAK5MypLMT50yklt1n&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pQ&lt;/span&gt;
+&lt;span class="n"&gt;MjrFXuvM9IQvVyQemHMUBqKqxPTVMJLn86mR5mTLMqs&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;WVAqei8GTsQeSSvHyIbk&lt;/span&gt;
+&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;RvYrKY7aK2RVZUV1dHQ6PII0w3BI5C0L9GM&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;UyIq0VRXTW6zjp9hS&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;xgn5SrQad&lt;/span&gt;
+&lt;span class="n"&gt;VIdGQKFVJa9h5&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;AzgjseARMQRkTQA&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;xX5&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;WmHxXaXUPhGxCeFsoqs53UFz1rkHYx&lt;/span&gt;
+&lt;span class="n"&gt;mus2WiD0gHbJ58DiMlVmupeNumi4e9wa&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;mYuW4qGwjzsQn9ZFNdoiUFzQrqZa6o&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;
+&lt;span class="n"&gt;Son&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;yZpGe&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;H9VidrWR5LhwD7AAMGBv9bhswvwpQ23X0kGItv7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;jHVr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;RJui7FAXY&lt;/span&gt;
+&lt;span class="n"&gt;mOM4WAoUv&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="n"&gt;ttPHf8OifWmeUDPlzm4txvR5a7t4hhVDehek1J7FEVvfG&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;ffcHiPP&lt;/span&gt;
+&lt;span class="n"&gt;kkFaUv2EgrXziozt&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;Vkr2nngsKO5FpRJe9GSqn68uZirhwbkHSKX6LPNFTWSYR3E&lt;/span&gt;
+&lt;span class="n"&gt;fefnsCaP82OJDBFGFMg2aMsz9QL85bg58fgHU972kLTePXUVAh3gaxb6qpjwZt2b&lt;/span&gt;
+&lt;span class="n"&gt;yrCGJ&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;rnmIc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;IWH8TJtHI5Yf3Abx2vlFTtzRH0CwVXuO0msjcfRrrrrS8NSm&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;ih5&lt;/span&gt;
+&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="n"&gt;ssElxKU6IhGBBgRAgAGBQJPbI3eAAoJEBinNlag8&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;tvoBEAn2Yqu0UFC5OSjD1Y&lt;/span&gt;
+&lt;span class="n"&gt;JQ00FFjNVestAJ0XctcbmhKaFuQ46SccW8C2JDG&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;xA&lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;
+&lt;span class="o"&gt;=+&lt;/span&gt;&lt;span class="n"&gt;VZi&lt;/span&gt;
+&lt;span class="o"&gt;-----&lt;/span&gt;&lt;span class="n"&gt;END&lt;/span&gt; &lt;span class="n"&gt;PGP&lt;/span&gt; &lt;span class="n"&gt;PUBLIC&lt;/span&gt; &lt;span class="n"&gt;KEY&lt;/span&gt; &lt;span class="n"&gt;BLOCK&lt;/span&gt;&lt;span class="o"&gt;-----&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="contact"></category><category term="phone"></category><category term="email"></category><category term="telephone"></category></entry></feed>
